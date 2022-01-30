@@ -15,6 +15,7 @@
 - TypeScript
 - PgAdmin
 - Postman
+- Postgresql
 - Heroku
 - Netlify
 
