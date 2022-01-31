@@ -1,7 +1,5 @@
 import axios from "axios";
 import Pagination from "components/Pagination";
-//import MovieStars from "components/MoviesStars";
-//import MovieScore from "components/MovieScore";
 import MovieCard from "components/MovieCard";
 import { BASE_URL } from "utils/requests";
 import { MoviePage } from "types/movie";
